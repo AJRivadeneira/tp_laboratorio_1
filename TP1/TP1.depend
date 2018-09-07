@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536276845 source:c:\users\alejandro\desktop\programacion\tp's\tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1536276845 c:\users\alejandro\desktop\programacion\tp's\tp1\operaciones.h
+
